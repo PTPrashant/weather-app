@@ -50,3 +50,10 @@ background: transparent;
   background: transparent;
   text-shadow: #0202c8;
  }
+
+ .onHover :hover {
+  background-color: #254c5b;
+  color: aliceblue;
+  cursor: pointer;
+
+ }

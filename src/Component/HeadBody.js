@@ -42,7 +42,7 @@ useEffect(function(){
   
   
   return (
-    <div  id="weather">
+    <div  id="weather" style={{paddingTop: '20px'}} >
     <div className="container  weather text-center">
     <h2>Enter City's Name</h2>
     <input
