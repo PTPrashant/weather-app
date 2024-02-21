@@ -1,5 +1,5 @@
 .weather{
-    background: url("WeatherApp.jpg");
+    /* background: url("WeatherApp.jpg"); */
     color: aliceblue;
     background-size: 100%;
     height: 13rem;
@@ -15,17 +15,38 @@
 
 
   .myCard{
-    width: 30rem;
-    
+    width: 30rem; 
     height: 20rem;
     align-items: center;
     justify-content: center;
   }
 
   .bgColor{
-    background-color: #E1FFEE;
+    background-color: #76cff0;
+    background: url("WeatherApp.jpg");
+    /* background-position: center; */
+    background-size: cover;
+
+    /* background-color: black; */
+
   }
 
   .bgColorWhite{
-    background-color: white;
+    /* background-color: white; */
+    background-color: #e1f7ff;
+
   }
+
+  .aboutBG{
+    background-color: #254c5b;
+color: aliceblue;
+background: transparent;
+
+  }
+
+ .aboutFooter{
+  background-color: #dba4d2;
+  color: rgb(249, 250, 251);
+  background: transparent;
+  text-shadow: #0202c8;
+ }
